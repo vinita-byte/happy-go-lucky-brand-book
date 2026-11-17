@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "document_type": "brand_book",
+  "title": "Happy Go Lucky Brand Book",
+  "language": "en-IN",
+  "edition": "2026-10-25",
+  "creator": "@Vinita Mathreja",
+  "canonical": "./brand-book.md",
+  "resources": {
+    "visual": "./",
+    "markdown": "./brand-book.md",
+    "plain_text": "./llms-full.txt",
+    "xml": "./brand-book.xml",
+    "llm_index": "./llms.txt",
+    "logo": "./happy-go-lucky-logo.png"
+  },
+  "permissions": {
+    "browser_access": true,
+    "crawler_access": true,
+    "ai_retrieval": true
+  },
+  "brand": {
+    "slogan": "Gift happy. Get lucky.",
+    "colors": [
+      "#F8E656",
+      "#00BF63",
+      "#F5F5F5",
+      "#302F34"
+    ],
+    "body_font": "Poppins"
+  }
+}

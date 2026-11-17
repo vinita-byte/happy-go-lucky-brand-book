@@ -1,0 +1,21 @@
+{
+  "title": "happygolucky brand book",
+  "description": "A cheerful brand book for Happy Go Lucky, helping teams create consistent, thoughtful gifting experiences through clear voice, visual identity, and ready-to-use web copy.",
+  "robots": {
+    "index": true
+  },
+  "language": "en-IN",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "openGraph": {
+    "image": "/happy-go-lucky-logo.png"
+  },
+  "customScripts": {
+    "headEnd": "<meta name=\"robots\" content=\"index, follow, max-image-preview:large, max-snippet:-1\"><meta name=\"ai-content-declaration\" content=\"Official Happy Go Lucky brand book\"><link rel=\"alternate\" type=\"text/markdown\" href=\"brand-book.md\" title=\"Happy Go Lucky Brand Book Markdown\"><link rel=\"alternate\" type=\"application/xml\" href=\"brand-book.xml\" title=\"Happy Go Lucky Brand Book XML\"><link rel=\"alternate\" type=\"text/plain\" href=\"llms.txt\" title=\"LLM discovery index\"><link rel=\"alternate\" type=\"text/plain\" href=\"llms-full.txt\" title=\"Complete LLM context\"><script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@type\":\"DigitalDocument\",\"name\":\"Happy Go Lucky Brand Book\",\"description\":\"Official visual, voice, content and packaging guidelines for Happy Go Lucky.\",\"inLanguage\":\"en-IN\",\"datePublished\":\"2026-10-25\",\"creator\":{\"@type\":\"Person\",\"name\":\"Vinita Mathreja\"},\"encoding\":[{\"@type\":\"MediaObject\",\"encodingFormat\":\"text/markdown\",\"contentUrl\":\"brand-book.md\"},{\"@type\":\"MediaObject\",\"encodingFormat\":\"application/xml\",\"contentUrl\":\"brand-book.xml\"},{\"@type\":\"MediaObject\",\"encodingFormat\":\"text/plain\",\"contentUrl\":\"llms-full.txt\"}]}</script>"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

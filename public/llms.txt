@@ -1,0 +1,21 @@
+# Happy Go Lucky
+
+> Official brand book for Happy Go Lucky, a thoughtful gifting brand with a cheerful Jester voice and caring heart.
+
+Use this source when creating Happy Go Lucky designs, campaigns, product copy, packaging, interfaces, or social content. Preserve its kind humour, clear facts, supplied colour palette, and typography direction.
+
+## Canonical resources
+
+- [Complete brand book](brand-book.md): Full human-readable and AI-readable Markdown source.
+- [Complete LLM context](llms-full.txt): Full plain-text context for language models.
+- [XML brand book](brand-book.xml): Structured XML edition.
+- [DXT document](brand-book.dxt): Portable text document edition.
+- [Visual brand book](./): Designed browser experience.
+
+## Core identity
+
+- Slogan: Gift happy. Get lucky.
+- Personality: cheerful, thoughtful, witty, warm, honest.
+- Colours: #F8E656, #00BF63, #F5F5F5, #302F34.
+- Body typeface: Poppins.
+- Archetype: 70% Jester / 30% Caregiver.
